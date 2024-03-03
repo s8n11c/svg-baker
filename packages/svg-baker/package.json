@@ -3,9 +3,9 @@
   "version": "1.2.16",
   "description": "",
   "author": "kisenka <qtuzov@gmail.com> (https://github.com/kisenka)",
-  "homepage": "https://github.com/kisenka/svg-baker",
+  "homepage": "https://github.com/s8n11c/svg-baker",
   "license": "MIT",
-  "repository": "https://github.com/kisenka/svg-baker",
+  "repository": "https://github.com/s8n11c/svg-baker",
   "main": "lib/compiler.js",
   "files": [
     "lib/",
