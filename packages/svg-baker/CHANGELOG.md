@@ -1,10 +1,25 @@
+<a name="1.2.14"></a>
+## 1.2.14 (2024-03-03)
+
+
+
+<a name="1.7.1"></a>
+## 1.7.1 (2024-03-03)
+
+
+### Bug Fixes
+
+* **css-selector-prefixer:** add entities decoding ([936e7d6](https://github.com/kisenka/svg-baker/commit/936e7d6))
+
+
+
 <a name="1.2.8"></a>
 ## 1.2.8 (2017-06-15)
 
 
 ### Bug Fixes
 
-* Remove DOCTYPE and xml declaration from source ([a380107](https://github.com/kisenka/svg-baker/commit/a380107))
+* remove DOCTYPE and xml declaration from source ([a380107](https://github.com/kisenka/svg-baker/commit/a380107))
 
 
 
